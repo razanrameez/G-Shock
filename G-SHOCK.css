@@ -1,0 +1,126 @@
+
+ .nav-s{ 
+     color: white; 
+ } 
+ .new-product{
+
+    width: 100%; 
+    height: 200px; 
+   padding-top: 80px;   
+ }
+ .new-product h3{
+   
+    text-align: center;
+    font-weight: bold;
+    padding-top: 25px;
+ }
+.one:hover{
+   border: 1px solid black;
+   cursor: pointer;
+}
+.btn-c{
+   margin-top: 30px;
+   background-color: black !important;
+   width: 250px;  
+}
+.btn-hover:hover{
+    opacity: 0.4;
+    border: none;  
+}
+.Topic{
+   width: 100%;
+   height: 140px;
+   padding-top: 65px;
+}
+.Topic h3{
+   font-weight: bold;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   color: black;
+    padding-left: 33px;
+}
+.card{
+   border: none;
+}
+.Discription-text p{
+   font-size: small;
+}
+
+.hover-img:hover{
+   transform: scale(1.1);
+   
+}
+.hover-img{
+   transition: 0.5s;
+   cursor: pointer;
+}
+
+.product-img{
+   margin-top: 10%;
+}
+.last-hover:hover{
+   transform: scale(1.1);
+}
+.last-hover{
+   transition: 0.5s;
+   cursor: pointer;
+}
+.image-bottonbar{
+   width: 100%;
+   background-color: black;
+   height: 15%;
+   color: white;
+   padding-top: 5%;
+}
+.image-bottonbar h6{
+  
+   margin: 0;
+}
+.main-cardgroup{
+   margin-top: 50px;
+}
+.footer-bg{
+background-color: black !important;
+color: white;
+}
+
+
+.lastimg-hover:hover{
+   transform: scale(1.1)
+}
+.lastimg-hover{
+   transition: 0.5s;
+   cursor: pointer;
+}
+footer{
+   width: 100%;
+   height: auto;
+   background-color: black;
+   color: #fff
+}
+li{
+   font-size: smaller;
+   margin-top: 10%;
+   cursor: pointer;
+}
+.Footer-Icon{
+   width: 100%;
+   height: 100px;
+   background-color: black;
+   float: left;
+   
+}
+.icon-width{
+   width: 30px;
+   height: 30px;
+   margin-left: 50px;
+   cursor: pointer;
+
+}
+.last-1{
+   padding-left: 4%;
+   font-size: 10px; 
+   cursor: pointer; 
+}
+li{
+   list-style-type: none;
+}
